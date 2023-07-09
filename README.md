@@ -1,9 +1,8 @@
 <h1 align="center"><b>Hi , I'm Shashi ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--
-**shashi-65/shashi-65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;IT+Professional,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -15,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Tata Consultancy Services
+- 🔭 I’m currently working at Tata Consultancy Services
 - 🌱 I’m currently learning Web Development
 
 <br><br>
@@ -53,10 +52,10 @@ Here are some ideas to get you started:
 
 - **Cloud Hosting**:
 
-    ![Heroku](https://img.shields.io/badge/Heroku%20Pages-%23327FC7.svg?style=for-the-badge&logo=Heroku&logoColor=white)
-    ![Vercel](https://img.shields.io/badge/Vercel%20Pages-%23327FC7.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-    ![Render](https://img.shields.io/badge/Render%20Pages-%23327FC7.svg?style=for-the-badge&logo=Render&logoColor=white)
-    ![MongoDb Atlas](https://img.shields.io/badge/MongoDb%20Pages-%23327FC7.svg?style=for-the-badge&logo=MongoDb&logoColor=white)
+    ![Heroku](https://img.shields.io/badge/Heroku-%23327FC7.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/Vercel-%23327FC7.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-%23327FC7.svg?style=for-the-badge&logo=Render&logoColor=white)
+    ![MongoDb Atlas](https://img.shields.io/badge/MongoDb%20Atlas-%23327FC7.svg?style=for-the-badge&logo=MongoDb&logoColor=white)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
@@ -66,7 +65,7 @@ Here are some ideas to get you started:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Postman](https://img.shields.io/badge/postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -127,7 +126,7 @@ Here are some ideas to get you started:
 
 <li>
 <a href="mailto:shashikumar89897@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Shashi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -138,12 +137,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+Upated By: Shashi
 
----
 
-<br>
-
+Last Edited On: 09/07/2023
