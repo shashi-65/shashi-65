@@ -49,6 +49,7 @@ Here are some ideas to get you started:
    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL%20-%23E34F26.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
+<br>
 
 - **Cloud Hosting**:
 
